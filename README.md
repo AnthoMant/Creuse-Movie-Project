@@ -10,6 +10,8 @@ Lorsqu’on accède au service Netflix, le système de recommandations aide l’
 Votre client n’est pas Netflix, mais il a de grandes ambitions !
 
 Objectif
+
+
 Vous êtes un Data analyst freelance. Un cinéma en perte de vitesse situé dans la Creuse vous contacte. Il a décidé de passer le cap du digital en créant un site internet taillé pour les locaux. 
 
 
