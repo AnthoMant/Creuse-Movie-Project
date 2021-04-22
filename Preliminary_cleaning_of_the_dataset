@@ -1,0 +1,37 @@
+import seaborn as sns
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+
+#IMPORTATION DES DATASETS
+
+title_rating=pd.read_csv('https://datasets.imdbws.com/title.ratings.tsv.gz', sep='\t')
+title_basics=pd.read_csv('https://datasets.imdbws.com/title.basics.tsv.gz', sep='\t')
+
+#VERIFICATION DU NOMBRE DE LIGNES ET DE COLONNES
+
+title_rating.shape
+title_basics.shape
+
+#JOINTURE ENTRE LES DEUX DATASETS
+
+global_title=pd.merge(title_basics ,title_rating,how="left", left_on="tconst" , right_on="tconst")
+
+#VERIFICATION DU NOMBRE DE LIGNES ET DE COLONNES
+
+global_title.shape
+
+#SUPPRESSION DES COLONNES INUTILES
+
+global_title=global_title.drop(["primaryTitle","isAdult","endYear"],axis=1)
+
+#CONNECTION DE MON COLAB A GOOGLE DRIVE
+
+from google.colab import drive
+drive.mount('drive')
+
+EXPORTATION DE MA NOUVELLE DATASET
+
+global_title.to_csv('globaltitle.csv')
+!cp globaltitle.csv "drive/My Drive/"
+
