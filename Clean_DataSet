@@ -42,7 +42,7 @@ global_title_movie.drop(global_title_movie.loc[global_title_movie["averageRating
 explode_title_actor.drop(explode_title_actor.loc[explode_title_actor["birthYear"]=='\\N'].index, inplace=True)
 explode_title_actor.drop(explode_title_actor.loc[explode_title_actor["knownForTitles_list"]=='\\N'].index, inplace=True)
 
-#CONVERSION DES TYPE DE DONNEES 
+#CONVERSION DES TYPES DE DONNEES 
 
 global_title_movie["startYear"]=pd.to_numeric(global_title_movie["startYear"])
 global_title_movie["runtimeMinutes"]=pd.to_numeric(global_title_movie["runtimeMinutes"])
