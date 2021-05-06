@@ -185,7 +185,7 @@ En parallèle à l’analyse quia mené à l’algorithme KNN, par définition o
 Nos outils, nos supports , la finalité : 
 •	La base de données originelle étant conséquente, un échantillon, calculé au travers des appréciations ,notations (average Ratings) et du nombre de votes des cinéphiles (numVotes)
 
-•	Qu’allons-nous étudier, qu’allons-nous comparer ? Pourquoi pas quelques mots d’usagers ? De ce fait, orientons-nous vers le « tagline » et le « overview. Respectivement le slogan et l’aperçu  (ou synopsis du film).
+•	Qu’allons-nous étudier, qu’allons-nous comparer ? Pourquoi pas quelques mots d’usagers ? De ce fait, orientons-nous vers le «tagline» et le «overview". Respectivement le slogan et l’aperçu  (ou synopsis du film).
 
 •	En comparant les contenus respectifs, nous tenterons de souligner des similarités et des points de rencontre entre films. 
 
