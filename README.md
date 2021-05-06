@@ -136,3 +136,13 @@ knownForTitles (array of tconsts) – titles the person is known for
 Voir : Exploration_de_données.ipynb
 
 Dans cette exploration nous constatons qu'enormement d'informations , de films , d'acteurs sont présent dans les bases de donnée. Nous allons devoir remettre tout en ordre et récupérer dans chaques tables les éléments necéssaire à la réalisation de notre système de reccommandation. Beaucoup d'informations sont manquantes, donc un nettoyage préliminaire va devoir être fait.
+
+
+## Nettoyage de la base de donnée
+
+Voir : Nettoyage_préliminaire.ipynb
+
+La première étape consiste à joindre les notes et le nombre de votes a la table des films, ensuite nous procédons donc au nettoyage des valeurs manquantes.
+
+
+
