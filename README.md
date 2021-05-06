@@ -161,7 +161,7 @@ La première étape consiste à joindre les notes et le nombre de votes a la tab
 
 ## Etude des variables
 
-voir : Etude_des_variables.ipynb
+Voir : Etude_des_variables.ipynb
 
 Nous étudions ici chaques variables pour pouvoir filtrer un maximum notre base de données. Après cette étude nous decidons de ne prendre que les film d'une durée comprise en 45 minute et 600 minutes, nous observons que quelques genre sont très peu noté. Nous décidons directement de supprimer certain genre comme "Adult" , "Game-Show" , "News" , "Réality-TV" , "Talk-show" qui n'entre pas dans le cadre de notre projet, la recommendation de film pour un cinema. Nous décidons de commencer notre base de donnée a partir de l'année 1920, en effet le nombre de note commence a évoluer a partir de cette année, nous ne pouvons exclure certain films.
 
