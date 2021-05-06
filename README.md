@@ -132,7 +132,7 @@ knownForTitles (array of tconsts) – titles the person is known for
 
 ## Etude démographique
 
-<img src=https://lh6.googleusercontent.com/0AMLiTFBhfXZIdF51EeXiwuBrAyEPp_AW3Jou-pZjRO5I1lFHIs4dxATZL7aj0_fLIU3_m5pa8sis1UiUe9MgUnYZfSuH8G5-0YWk5vh"/>
+<img src="https://lh6.googleusercontent.com/0AMLiTFBhfXZIdF51EeXiwuBrAyEPp_AW3Jou-pZjRO5I1lFHIs4dxATZL7aj0_fLIU3_m5pa8sis1UiUe9MgUnYZfSuH8G5-0YWk5vh"/>
 
 ## Première exploration de la base de donnée
 
