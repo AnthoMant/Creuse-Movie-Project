@@ -179,4 +179,14 @@ Voir : Modele_KNN.ipynb
 
 ####################################A compléter par Audrey ou Max#############################################
 
-## En attente de Malick
+##Analyse qualitative partielle des films
+Nous ne nous lancerons pas dans une analyse filmique ou théorie du film (analyser le film par le biais du scénario, le découpage, le montage, les enjeux et la portée du message ou son esthétique).
+En parallèle à l’analyse quia mené à l’algorithme KNN, par définition observation de variables continues, nous procédons par une approche qualitative. 
+Nos outils, nos supports , la finalité : 
+•	La base de données originelle étant conséquente, un échantillon, calculé au travers des appréciations ,notations (average Ratings) et du nombre de votes des cinéphiles (numVotes)
+
+•	Qu’allons-nous étudier, qu’allons-nous comparer ? Pourquoi pas quelques mots d’usagers ? De ce fait, orientons-nous vers le « tagline » et le « overview. Respectivement le slogan et l’aperçu  (ou synopsis du film).
+
+•	En comparant les contenus respectifs, nous tenterons de souligner des similarités et des points de rencontre entre films. 
+
+Une recommandation pourrait, alors, être prodiguée.
