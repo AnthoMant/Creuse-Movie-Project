@@ -179,7 +179,7 @@ Voir : Modele_KNN.ipynb
 
 ####################################A compléter par Audrey ou Max#############################################
 
-##Analyse qualitative partielle des films
+## Analyse qualitative partielle des films
 Nous ne nous lancerons pas dans une analyse filmique ou théorie du film (analyser le film par le biais du scénario, le découpage, le montage, les enjeux et la portée du message ou son esthétique).
 En parallèle à l’analyse quia mené à l’algorithme KNN, par définition observation de variables continues, nous procédons par une approche qualitative. 
 Nos outils, nos supports , la finalité : 
