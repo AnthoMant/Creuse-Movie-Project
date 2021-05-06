@@ -138,6 +138,10 @@ knownForTitles (array of tconsts) – titles the person is known for
 
 <img src="https://lh5.googleusercontent.com/W6QyqONscGi7M4P10j8WXLPJkTr0WuJe-6UEuEHAFxAgVWmJkKdR5cKebUn-rN7JS8fxwYHtSOUwxWJksmRzaW6JKe-nnO3WQFjQXJjn"/>
 
+
+<img src="https://lh6.googleusercontent.com/cj45MBW1op-j8DZnZExoHaTwlMbdpQp0ZaN4ZwWmOvz946tof9uy-rvK5uVshBVhjzV0BD8zmzw0bYFWXgCV3lBakcO1tCbDgZmx2-KT4WAoAogI4ejzY4jaZ9yKiDmB0JL5aLc"/>
+
+
 ## Première exploration de la base de donnée
 
 Voir : Exploration_de_données.ipynb
