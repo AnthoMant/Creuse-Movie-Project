@@ -173,3 +173,10 @@ Voir : Base_de_données_final.ipynb
 Ici nous ajoutons une colonne "directors" pour afficher les réalisateurs de chaque films, et une colonne "actors" qui regrouperas les acteurs et actrices pour chaque films.
 
 
+## Modèles KNN
+
+Voir : Modele_KNN.ipynb
+
+####################################A compléter par Audrey ou Max#############################################
+
+## En attente de Malick
